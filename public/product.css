@@ -1,0 +1,13 @@
+.button{
+    font: inherit;
+    color: purple;
+    border-radius: 3px solid;
+    cursor: pointer;
+    border: 1px solid purple;
+}
+
+.form{
+    border: 1px solid purple;
+    border-radius: 2px;
+    font: inherit;
+}
